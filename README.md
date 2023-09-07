@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Приветики-пистолетики! Я <a href="[[https://daniilshat.ru/](https://fox-alice.github.io/portfolio-frontend/)]" target="_blank">Эльвира</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Фронтенд разработчик </h3>
 
 <!--
 **Fox-Alice/Fox-Alice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
