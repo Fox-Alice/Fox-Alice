@@ -1,7 +1,7 @@
 <h1 align="center">Приветики-пистолетики! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br /> Я <a href="[[https://daniilshat.ru/](https://fox-alice.github.io/portfolio-frontend/)]" target="_blank">Эльвира, фронтенд разработчик</a> 
 </h1>
 <h3 align="center">Я не волшебник, я только учусь.© </h3>
-<h4 align="center">Мой стек:</h4>
+<h1 align="center">Мой стек:</h1>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
