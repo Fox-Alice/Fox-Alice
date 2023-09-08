@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Фронтенд разработчик </h3>
 <h4 align="center">Мой стек:</h4>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</p>
 
 <!--
 **Fox-Alice/Fox-Alice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
