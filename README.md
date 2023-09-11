@@ -24,7 +24,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <h3 >со мной можно связаться:</h3>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxAliceDeveloper)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) (https://t.me/FoxAliceDeveloper)
 [![Почта](https://img.shields.io/badge/maxim713%40-mail.ru-blue?style=for-the-badge&logo=appveyor)](mailto:elvitatr@yandex.ru)
 
 
