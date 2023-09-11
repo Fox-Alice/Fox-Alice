@@ -26,5 +26,6 @@
 <h3 >со мной можно связаться:</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxAliceDeveloper)
+[![Почта](https://img.shields.io/badge/elviratr%40-yandex.ru-blue?style=for-the-badge&logo=appveyor)](mailto:elviratr@yandex.ru)
 
 
