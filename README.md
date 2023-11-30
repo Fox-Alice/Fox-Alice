@@ -1,4 +1,4 @@
-<h1 align="center">Приветики-пистолетики! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br /> Я <a href="[[https://daniilshat.ru/](https://fox-alice.github.io/portfolio-frontend/)]" target="_blank">Эльвира, фронтенд разработчик</a> 
+<h1 align="center">Приветики-пистолетики! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br /> Я -<a href="[(https://fox-alice.github.io/portfolio-frontend/)]" target="_blank">Эльвира, фронтенд разработчик</a> 
 </h1>
 <h3 align="center">✨ Я не волшебник, я только учусь.© </h3>
 🔭 прошла обучение в Яндекс Практикуме, чем очень горжусь<br />
