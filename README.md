@@ -1,7 +1,7 @@
 <h1 align="center">Приветики-пистолетики! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br /> Я - <a href="[(https://fox-alice.github.io/portfolio-frontend/)]" target="_blank">Эльвира, фронтенд разработчик</a> 
 </h1>
 <h3 align="center">✨ Я не волшебник, я только учусь.© </h3>
-![image](https://github.com/Fox-Alice/Fox-Alice/blob/main/pic.png)
+![pic](https://github.com/Fox-Alice/Fox-Alice/assets/101255615/4517ee0f-2c57-43c2-a9ed-6d1de7eb7b64)
 
 🔭 прошла обучение в Яндекс Практикуме, чем очень горжусь<br />
 👯 ищу работу в дружной команде с интересными задачами<br />
