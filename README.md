@@ -11,6 +11,7 @@
 ⚡открыта для общения и сотрудничества<br />
 
 <h2> Мой прогресс на Codewars</h2>
+
 [![codewars](https://www.codewars.com/users/FoxAlice/badges/small)](https://www.codewars.com/users/FoxAlice)
 <h1 >Мой стек:</h1>
 
